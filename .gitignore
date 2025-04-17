@@ -1,7 +1,0 @@
-echo ".idea/" >> .gitignore
-echo "/main_1.py" >> .gitignore
-echo "/test_basic.py" >> .gitignore
-
-git rm --cached .idea/
-git rm --cached /main_1.py
-git rm --cached /test_basic.py
